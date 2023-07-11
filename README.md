@@ -1,2 +1,2 @@
 # julius-ulee.github.io
-My Portfolio
+compilation of academic and professional materials exemplifying beliefs, skills, qualifications, education, training, and experience.
