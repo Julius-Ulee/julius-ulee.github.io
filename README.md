@@ -1,6 +1,6 @@
 # Personal Portfolio Repository
 
-This is the repository for my personal portfolio website, which is a single page HTML created with Tailwind CSS and Alpine.js. The website is designed to showcase my skills, experience, and projects.
+This is the repository for my personal portfolio website, which is a one-page HTML created with CSS and Jquery. This website is designed to showcase my skills, experience, and projects.
 
 ## Technologies Used
 
