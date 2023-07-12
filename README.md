@@ -6,7 +6,7 @@ This is the repository for my personal portfolio website, which is a single page
 
 - [Font Awesome](https://fontawesome.com/)
 - [Jquery](https://jquery.com/)
-  [Particles](https://github.com/VincentGarreau/particles.js/)
+- [Particles](https://github.com/VincentGarreau/particles.js/)
 - [Flaticon](https://flaticon.com/)
 
 ## Usage and Permissions
