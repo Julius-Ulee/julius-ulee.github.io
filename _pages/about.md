@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Julius Ulee"
+title: "🎃While (noSucces) { tryAgain(); if(dead) break; }"
 excerpt: "Julius Ulee"
 author_profile: true
 redirect_from: 
