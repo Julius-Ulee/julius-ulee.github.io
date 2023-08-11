@@ -1,6 +1,6 @@
 ---
 title: "Amelia Bot Whatsapp"
-excerpt: "Amelia Bot is used to make it easier for users to find information<br/><img src='/images/amelia-whatsapp.png' height="250" width="250">"
+excerpt: "Amelia Bot is used to make it easier for users to find information<br/><img src='/images/amelia-whatsapp.png' height='250' width='250'>"
 collection: portfolio
 ---
 
