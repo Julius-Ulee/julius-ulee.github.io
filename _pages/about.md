@@ -20,6 +20,6 @@ I am currently completing a Bachelor at [Bina Sarana Informatika University (UBS
 
 Certificate
 ======
-<iframe src="/files/java.pdf" width="100%" height="534" fitwidth="yes" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/java.pdf" width="100%" height="500" fitwidth="yes" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 <iframe src="/files/learn-python-basics.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 <iframe src="/files/programiz.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
