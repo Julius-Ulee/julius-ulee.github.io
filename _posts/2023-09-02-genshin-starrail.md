@@ -1,5 +1,5 @@
 ---
-title: 'Genshin Impact & Honkai: Star Rail: Stats, Auto Claim Daily Rewards, Auto Redeem Code'
+title: 'Genshin Impact / Honkai: Star Rail: Stats, Auto Claim Daily Rewards, Auto Redeem Code'
 date: 2023-09-02
 permalink: /posts/genshin-starrail/
 tags:
