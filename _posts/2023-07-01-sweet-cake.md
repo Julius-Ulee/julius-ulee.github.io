@@ -1,6 +1,6 @@
 ---
 title: 'Sweet Cake'
-date: 2023-08-26
+date: 2023-07-01
 permalink: /posts/sweet-cake/
 tags:
   - project
