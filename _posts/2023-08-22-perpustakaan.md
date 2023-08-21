@@ -1,6 +1,6 @@
 ---
 title: 'Perpustakaan'
-date: 2023-08-21
+date: 2023-08-22
 permalink: /posts/perpustakaan/
 tags:
   - project
