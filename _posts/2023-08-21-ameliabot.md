@@ -1,6 +1,6 @@
 ---
 title: 'Amelia Bot WhatsApp'
-date: 2022-06-21
+date: 2023-08-21
 permalink: /posts/ameliabot/
 tags:
   - Bot
