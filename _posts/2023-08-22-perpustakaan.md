@@ -1,5 +1,5 @@
 ---
-title: 'Perpustakaan'
+title: 'Perpustakaan using python'
 date: 2023-08-22
 permalink: /posts/perpustakaan/
 tags:
