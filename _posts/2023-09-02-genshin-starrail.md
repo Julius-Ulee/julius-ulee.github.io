@@ -7,6 +7,7 @@ tags:
 ---
 
 The program is a Python script that uses several libraries and modules to generate HTML files containing information about Genshin Impact game users and auto redeem codes.
+
 ![image](https://github.com/Julius-Ulee/julius-ulee.github.io/assets/61336116/bd1cef63-955a-4406-9e0a-7f5c073ca640)
 
 ## Genshin Impact and Honkai: Star Rail character information
