@@ -1,7 +1,7 @@
 # main links links
 main:
-#  - title: "Publications"
-#    url: /publications/ 
+  - title: "School Programs"
+    url: https://julius-ulee.github.io/School-Programs/ 
     
   - title: "Portfolio"
     url: /portfolio/
