@@ -1,6 +1,6 @@
 ---
 title: 'School Program: Achieving Learning Success: Commitment, Perseverance, and Consistency'
-date: 2023-0-11
+date: 2023-11-09
 permalink: /posts/school-program/
 tags:
   - Project
